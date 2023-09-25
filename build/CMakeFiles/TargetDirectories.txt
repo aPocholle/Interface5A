@@ -1,0 +1,3 @@
+/home/esirem/Thiv/build/CMakeFiles/app.dir
+/home/esirem/Thiv/build/CMakeFiles/edit_cache.dir
+/home/esirem/Thiv/build/CMakeFiles/rebuild_cache.dir
